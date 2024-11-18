@@ -1,4 +1,4 @@
-# matVJII_2023_lab2
+# matVJII_2024_lab2
 
 This Lab has been concieved to be run at google colab. Please read carefully the instructions at the notebook header to understand how to set up the environment. 
 
